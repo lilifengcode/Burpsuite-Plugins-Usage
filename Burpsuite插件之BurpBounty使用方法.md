@@ -1,6 +1,4 @@
----
-abbrlink: '0'
----
+
 # Burpsuite-BurpBounty   
 
 ![nS0ytK.jpg](https://s2.ax1x.com/2019/09/01/nS0ytK.jpg)                                                                                                                      
