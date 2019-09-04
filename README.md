@@ -1,10 +1,28 @@
 # Burpsuite-Plugins-Usage #
 
-存放了一些自己之前，写的使用burpsuite 插件时候的文档
+存放了一些自己之前，使用burpsuite 插件时候的记录文档
 
-都是一些自己的记录，文笔不咋地，文档结构也是随心所欲，，，，，，
+我所用的插件：
 
-如有问题,请告知
+Autorize 
+
+Reflection 
+
+Logger++ 
+
+Bypass WAF 
+
+JSON Beautifier 
+
+JSON Web Tokens 
+
+CSP Auditor 
+
+CSP-Bypass 
+
+Hackvertor 
+
+Active Scan++
 
 
 
