@@ -4,11 +4,11 @@
 
 我所用的插件：
 
-Autorize 
-
-Reflection 
-
 Logger++ 
+
+AutoRepeater
+
+Autorize 
 
 Bypass WAF 
 
