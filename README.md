@@ -30,3 +30,6 @@ CSP-Bypass
 
 ![](https://n.sinaimg.cn/sinacn20102/65/w1080h585/20190508/c5c4-hwsffza7220243.jpg)
 
+注:
+
+2019.9.18 Passive Scan Client 文档更换
