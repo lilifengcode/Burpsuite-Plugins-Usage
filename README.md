@@ -37,3 +37,5 @@
 2019.9.28 Jython 2.7.1 
 
 2019.10.4 BurpsuiteJSBeautiful
+
+2019.10.17 sqlmap4burp-plus-plus

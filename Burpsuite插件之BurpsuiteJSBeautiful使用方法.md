@@ -24,6 +24,10 @@ https://github.com/irsdl/BurpSuiteJSBeautifier
 
 ![](https://s2.ax1x.com/2019/10/03/uwoTmt.png)
 
+### 3.点击插件,加载
+
+![KEgVMT.gif](https://s2.ax1x.com/2019/10/17/KEgVMT.gif)
+
 ### 成功多出一个标签栏 ###
 
 ![](https://s2.ax1x.com/2019/10/03/uwoqk8.png)
