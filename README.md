@@ -41,3 +41,5 @@
 2019.10.17 sqlmap4burp-plus-plus
 
 2019.10.19 BurpSuite-Asset_Discover
+
+2020.1.17 BurpSuite2.1.07
