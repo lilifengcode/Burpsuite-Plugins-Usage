@@ -28,6 +28,11 @@
 2. https://github.com/xl7dev/BurpSuite
 3. https://github.com/Mr-xn/BurpSuite-collections
 
+## 0x04 问题解决
+
+1. 部分插件在新版本burp情况下无法使用
+2. 部分情况下抓不到包文件需更新burp;或者重新导入证书文件
+
 ## 0x04  更新日历
 
 2019.9.18 Passive Scan Client  
