@@ -28,10 +28,11 @@
 2. https://github.com/xl7dev/BurpSuite
 3. https://github.com/Mr-xn/BurpSuite-collections
 
-## 0x04 问题解决
+## 0x04 问题 解决
 
 1. 部分插件在新版本burp情况下无法使用
 2. 部分情况下抓不到包文件需更新burp;或者重新导入证书文件
+3. 部分没有说明的，请去看项目说明，作者可能描述的已经很很详细详细了
 
 ## 0x04  更新日历
 
@@ -50,3 +51,6 @@
 2020.1.17 BurpSuite2.1.07
 
 2020.4.2 HTTPHeadModifer
+
+2020.4.2 WooyunSearch
+
