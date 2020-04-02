@@ -48,3 +48,5 @@
 2019.10.19 BurpSuite-Asset_Discover
 
 2020.1.17 BurpSuite2.1.07
+
+2020.4.2 HTTPHeadModifer
